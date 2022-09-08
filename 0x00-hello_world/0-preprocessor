@@ -1,2 +1,0 @@
-#!/bin/bash
-echo -e "gcc-E $CFILE-o c"
