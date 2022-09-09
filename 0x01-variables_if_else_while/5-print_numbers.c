@@ -8,10 +8,10 @@
  */
 int mai(void)
 {
-int i;
-for (i = 0; i < 10; i++)
+int d;
+for (d = 0; d < 10; d++)
 {
-	printf("%i", i);
+	printf("%d", i);
 }
 printf("\n");
 return (0);
