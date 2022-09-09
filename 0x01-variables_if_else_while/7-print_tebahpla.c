@@ -6,13 +6,13 @@
  * this program prints "programming is positive, zero, or negative"
  * Return: 0
  */
-int mai(void)
+int main(void)
 {
-int i;
-for (i = 0; i < 10; i++)
+char c;
+for  (c = 'z' ; c >= 'a' ; c++)
 {
-	printf("%i", i);
+putchar(c);
 }
-printf('\n');
+putchar('\n');
 return (0);
 }
