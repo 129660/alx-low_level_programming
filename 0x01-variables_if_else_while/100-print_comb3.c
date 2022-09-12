@@ -3,7 +3,7 @@
  * main-  print single digit number starting 0
  *
  * Return: returns at zero at the end
- * */
+ */
 int main(void)
 {
 
@@ -21,8 +21,8 @@ int main(void)
 				if(i != 8)
 				{
 
-					putchar(',');
-					putchar(' ');
+					putchar (',');
+					putchar (' ');
 
 				}
 
