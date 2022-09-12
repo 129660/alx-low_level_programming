@@ -6,8 +6,9 @@
  * Return: return to zero at the ednd
  */
 int main(void)
-{
 
+{
+	
 	int i , p;
 
 	for (i = 0; i < 100; i++)
@@ -33,7 +34,7 @@ int main(void)
 			}
 		}
 	}
-	putchar('\n')
+	putchar('\n');
 	return (0);
 
 }
