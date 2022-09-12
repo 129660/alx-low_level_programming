@@ -15,6 +15,7 @@ int main(void)
 				{
 					if (m > p && p > i)
 					{
+					
 					putchar (i + '0');
 					putchar (p + '0');
 					putchar (m + '0');
@@ -25,10 +26,12 @@ int main(void)
 					putchar (',');
 					putchar (' ');
 					}	
+					
 					}
 				}
 			}
 		}
+		
 		putchar ('\n');
 
 		return (0);
